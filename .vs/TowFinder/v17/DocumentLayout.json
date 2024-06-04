@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hhkur\\OneDrive\\Masa\u00FCst\u00FC\\TowFinder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF64323-C379-4386-B510-4E9BD450C3CF}|TowFinder.csproj|c:\\users\\hhkur\\onedrive\\masa\u00FCst\u00FC\\towfinder\\controllers\\towoperatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF64323-C379-4386-B510-4E9BD450C3CF}|TowFinder.csproj|solutionrelative:controllers\\towoperatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF64323-C379-4386-B510-4E9BD450C3CF}|TowFinder.csproj|c:\\users\\hhkur\\onedrive\\masa\u00FCst\u00FC\\towfinder\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF64323-C379-4386-B510-4E9BD450C3CF}|TowFinder.csproj|solutionrelative:viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF64323-C379-4386-B510-4E9BD450C3CF}|TowFinder.csproj|c:\\users\\hhkur\\onedrive\\masa\u00FCst\u00FC\\towfinder\\viewmodels\\towoperatorregisterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF64323-C379-4386-B510-4E9BD450C3CF}|TowFinder.csproj|solutionrelative:viewmodels\\towoperatorregisterviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF64323-C379-4386-B510-4E9BD450C3CF}|TowFinder.csproj|c:\\users\\hhkur\\onedrive\\masa\u00FCst\u00FC\\towfinder\\viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF64323-C379-4386-B510-4E9BD450C3CF}|TowFinder.csproj|solutionrelative:viewmodels\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF64323-C379-4386-B510-4E9BD450C3CF}|TowFinder.csproj|c:\\users\\hhkur\\onedrive\\masa\u00FCst\u00FC\\towfinder\\viewmodels\\editprofileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF64323-C379-4386-B510-4E9BD450C3CF}|TowFinder.csproj|solutionrelative:viewmodels\\editprofileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF64323-C379-4386-B510-4E9BD450C3CF}|TowFinder.csproj|c:\\users\\hhkur\\onedrive\\masa\u00FCst\u00FC\\towfinder\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF64323-C379-4386-B510-4E9BD450C3CF}|TowFinder.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF64323-C379-4386-B510-4E9BD450C3CF}|TowFinder.csproj|c:\\users\\hhkur\\onedrive\\masa\u00FCst\u00FC\\towfinder\\models\\towoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF64323-C379-4386-B510-4E9BD450C3CF}|TowFinder.csproj|solutionrelative:models\\towoperator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF64323-C379-4386-B510-4E9BD450C3CF}|TowFinder.csproj|c:\\users\\hhkur\\onedrive\\masa\u00FCst\u00FC\\towfinder\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF64323-C379-4386-B510-4E9BD450C3CF}|TowFinder.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF64323-C379-4386-B510-4E9BD450C3CF}|TowFinder.csproj|c:\\users\\hhkur\\onedrive\\masa\u00FCst\u00FC\\towfinder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF64323-C379-4386-B510-4E9BD450C3CF}|TowFinder.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF64323-C379-4386-B510-4E9BD450C3CF}|TowFinder.csproj|c:\\users\\hhkur\\onedrive\\masa\u00FCst\u00FC\\towfinder\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFF64323-C379-4386-B510-4E9BD450C3CF}|TowFinder.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF64323-C379-4386-B510-4E9BD450C3CF}|TowFinder.csproj|c:\\users\\hhkur\\onedrive\\masa\u00FCst\u00FC\\towfinder\\views\\administrator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFF64323-C379-4386-B510-4E9BD450C3CF}|TowFinder.csproj|solutionrelative:views\\administrator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF64323-C379-4386-B510-4E9BD450C3CF}|TowFinder.csproj|c:\\users\\hhkur\\onedrive\\masa\u00FCst\u00FC\\towfinder\\controllers\\administratorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF64323-C379-4386-B510-4E9BD450C3CF}|TowFinder.csproj|solutionrelative:controllers\\administratorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF64323-C379-4386-B510-4E9BD450C3CF}|TowFinder.csproj|c:\\users\\hhkur\\onedrive\\masa\u00FCst\u00FC\\towfinder\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFF64323-C379-4386-B510-4E9BD450C3CF}|TowFinder.csproj|solutionrelative:viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF64323-C379-4386-B510-4E9BD450C3CF}|TowFinder.csproj|c:\\users\\hhkur\\onedrive\\masa\u00FCst\u00FC\\towfinder\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFF64323-C379-4386-B510-4E9BD450C3CF}|TowFinder.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EditProfileViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hhkur\\OneDrive\\Masa\u00FCst\u00FC\\TowFinder\\ViewModels\\EditProfileViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\EditProfileViewModel.cs",
+              "ToolTip": "C:\\Users\\hhkur\\OneDrive\\Masa\u00FCst\u00FC\\TowFinder\\ViewModels\\EditProfileViewModel.cs",
+              "RelativeToolTip": "ViewModels\\EditProfileViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:09:57.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TowOperatorRegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hhkur\\OneDrive\\Masa\u00FCst\u00FC\\TowFinder\\ViewModels\\TowOperatorRegisterViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\TowOperatorRegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\hhkur\\OneDrive\\Masa\u00FCst\u00FC\\TowFinder\\ViewModels\\TowOperatorRegisterViewModel.cs",
+              "RelativeToolTip": "ViewModels\\TowOperatorRegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:09:52.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hhkur\\OneDrive\\Masa\u00FCst\u00FC\\TowFinder\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\hhkur\\OneDrive\\Masa\u00FCst\u00FC\\TowFinder\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:39:52.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hhkur\\OneDrive\\Masa\u00FCst\u00FC\\TowFinder\\ViewModels\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\hhkur\\OneDrive\\Masa\u00FCst\u00FC\\TowFinder\\ViewModels\\ErrorViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:16:33.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hhkur\\OneDrive\\Masa\u00FCst\u00FC\\TowFinder\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\hhkur\\OneDrive\\Masa\u00FCst\u00FC\\TowFinder\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:16:32.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TowOperatorController.cs",
+              "DocumentMoniker": "C:\\Users\\hhkur\\OneDrive\\Masa\u00FCst\u00FC\\TowFinder\\Controllers\\TowOperatorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TowOperatorController.cs",
+              "ToolTip": "C:\\Users\\hhkur\\OneDrive\\Masa\u00FCst\u00FC\\TowFinder\\Controllers\\TowOperatorController.cs",
+              "RelativeToolTip": "Controllers\\TowOperatorController.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAAAHMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:04:04.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TowOperator.cs",
+              "DocumentMoniker": "C:\\Users\\hhkur\\OneDrive\\Masa\u00FCst\u00FC\\TowFinder\\Models\\TowOperator.cs",
+              "RelativeDocumentMoniker": "Models\\TowOperator.cs",
+              "ToolTip": "C:\\Users\\hhkur\\OneDrive\\Masa\u00FCst\u00FC\\TowFinder\\Models\\TowOperator.cs",
+              "RelativeToolTip": "Models\\TowOperator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:39:12.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hhkur\\OneDrive\\Masa\u00FCst\u00FC\\TowFinder\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hhkur\\OneDrive\\Masa\u00FCst\u00FC\\TowFinder\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:04:03.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hhkur\\OneDrive\\Masa\u00FCst\u00FC\\TowFinder\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hhkur\\OneDrive\\Masa\u00FCst\u00FC\\TowFinder\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAMwEgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:20:24.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdministratorController.cs",
+              "DocumentMoniker": "C:\\Users\\hhkur\\OneDrive\\Masa\u00FCst\u00FC\\TowFinder\\Controllers\\AdministratorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdministratorController.cs",
+              "ToolTip": "C:\\Users\\hhkur\\OneDrive\\Masa\u00FCst\u00FC\\TowFinder\\Controllers\\AdministratorController.cs",
+              "RelativeToolTip": "Controllers\\AdministratorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:04:02.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hhkur\\OneDrive\\Masa\u00FCst\u00FC\\TowFinder\\Views\\Administrator\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Administrator\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hhkur\\OneDrive\\Masa\u00FCst\u00FC\\TowFinder\\Views\\Administrator\\Index.cshtml",
+              "RelativeToolTip": "Views\\Administrator\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T08:15:57.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hhkur\\OneDrive\\Masa\u00FCst\u00FC\\TowFinder\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hhkur\\OneDrive\\Masa\u00FCst\u00FC\\TowFinder\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAD8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T08:16:16.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\hhkur\\OneDrive\\Masa\u00FCst\u00FC\\TowFinder\\ViewModels\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\HomeViewModel.cs",
+              "ToolTip": "C:\\Users\\hhkur\\OneDrive\\Masa\u00FCst\u00FC\\TowFinder\\ViewModels\\HomeViewModel.cs",
+              "RelativeToolTip": "ViewModels\\HomeViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T08:16:30.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\hhkur\\OneDrive\\Masa\u00FCst\u00FC\\TowFinder\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\hhkur\\OneDrive\\Masa\u00FCst\u00FC\\TowFinder\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-24T08:16:25.244Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
